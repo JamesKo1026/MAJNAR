@@ -1,0 +1,6 @@
+{
+    "files.associations": {
+        "*.cp": "cpp"
+    },
+    "C_Cpp.dimInactiveRegions": false
+}
